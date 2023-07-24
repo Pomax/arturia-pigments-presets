@@ -6,4 +6,4 @@ And since the presets are all text based, guess what you can super easily do?
 
 Correct: revision control and packaged releases. So hey, let's put my presets up on github and we'll see how long that lasts!
 
--- [Pomax](https://twitter.com/TheRealPomax)
+-- [Pomax](https://mastodon.social/@TheRealPomax)
